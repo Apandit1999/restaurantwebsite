@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/restaurantwebsite/static/css/main.2ea2b2c2.css",
+    "main.js": "/restaurantwebsite/static/js/main.8a989885.js",
+    "static/media/home-img": "/restaurantwebsite/static/media/home-img.965e18e60a1521e7e1af",
+    "static/media/about-img": "/restaurantwebsite/static/media/about-img.b50db0fa2bfd668b3a06",
+    "static/media/product-3.png": "/restaurantwebsite/static/media/product-3.80abee240885f3eabce3.png",
+    "static/media/product-1.png": "/restaurantwebsite/static/media/product-1.ca74090c36866e811ed8.png",
+    "static/media/pic-1.png": "/restaurantwebsite/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/blog-2.jpeg": "/restaurantwebsite/static/media/blog-2.aad862135a6f55136148.jpeg",
+    "static/media/blog-1.jpeg": "/restaurantwebsite/static/media/blog-1.065d12567fbfbd854b28.jpeg",
+    "static/media/blog-3.jpeg": "/restaurantwebsite/static/media/blog-3.facb0a62c6f95b805de3.jpeg",
+    "static/media/logo.png": "/restaurantwebsite/static/media/logo.bbdaaa34654aff804cc3.png",
+    "static/media/menu-1.png": "/restaurantwebsite/static/media/menu-1.a0b16a8f9d4b6cca2862.png",
+    "static/media/menu-4.png": "/restaurantwebsite/static/media/menu-4.102bafe3a5e4f81cf81d.png",
+    "static/media/cart-item-4.png": "/restaurantwebsite/static/media/cart-item-4.55373ba7056ffc971050.png",
+    "static/media/menu-5.png": "/restaurantwebsite/static/media/menu-5.55373ba7056ffc971050.png",
+    "static/media/menu-3.png": "/restaurantwebsite/static/media/menu-3.1bedaa57884042844ded.png",
+    "static/media/cart-item-2.png": "/restaurantwebsite/static/media/cart-item-2.a126b21895f356e74acd.png",
+    "static/media/cart-item-3.png": "/restaurantwebsite/static/media/cart-item-3.24f3692350f004b8004a.png",
+    "static/media/menu-2.png": "/restaurantwebsite/static/media/menu-2.24f3692350f004b8004a.png",
+    "static/media/cart-item-1.png": "/restaurantwebsite/static/media/cart-item-1.e96f24935570ab6ca6f6.png",
+    "static/media/menu-6.png": "/restaurantwebsite/static/media/menu-6.1e627e81ea9cffd96843.png",
+    "index.html": "/restaurantwebsite/index.html",
+    "main.2ea2b2c2.css.map": "/restaurantwebsite/static/css/main.2ea2b2c2.css.map",
+    "main.8a989885.js.map": "/restaurantwebsite/static/js/main.8a989885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea2b2c2.css",
+    "static/js/main.8a989885.js"
+  ]
+}
